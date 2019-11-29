@@ -1,0 +1,67 @@
+/*global css*/
+
+
+/*my css*/
+.headerClass{
+	background: url(../img/icrowdme.png) no-repeat;
+	background-size: cover;
+}
+.listItem{
+	color: black;
+}
+.text-center{
+	padding-top: 100px;
+	
+}
+h2{
+	padding: 20px;
+}
+.headerH{
+	margin-bottom: 80px;
+}
+.bagSection{
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+.sofa{
+	background-color: #CCE5FF;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.bag{
+	background-color: #E0E0E0;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.btn{
+	background-color:#80FF00;
+	color: #fff;
+	margin-bottom: 200px;
+	padding: 8px 35px;
+}
+
+.btnTwo{
+	background-color: #3399FF;
+	border: none;
+	padding: 6px 30px;
+	border-radius: 10px;
+}
+.btnThree{
+	background-color: #80FF00;
+	border: none;
+	padding: 6px 30px;
+	border-radius: 10px;
+}
+.btnFour{
+	background-color: #fff;
+	
+	padding: 6px 30px;
+	border-radius: 10px;
+}
+.lastImg{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.footerP{
+	padding: 50px;
+}
